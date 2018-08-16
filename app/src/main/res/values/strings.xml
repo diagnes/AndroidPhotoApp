@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoShowApp</string>
+    <string name="btnload_title">Rechercher</string>
+    <string name="error_url">URL</string>
+    <string name="error_io">Connexion timeout</string>
+    <string name="error_json">Json Problem</string>
+</resources>
